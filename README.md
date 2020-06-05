@@ -1,4 +1,6 @@
-# Code for Learning Structured Distributions From Untrusted Batches: Faster and Simple"
+# Code for "Learning Structured Distributions From Untrusted Batches: Faster and Simple"
+
+These are scripts for the paper "Learning Structured Distributions From Untrusted Batches: Faster and Simple" (<a href="https://arxiv.org/abs/2002.10435">preprint</a>).
 
 ## Contents
 - `preamble.py`: contains main dependencies and global flags
